@@ -1,5 +1,5 @@
 # Animal-Classification-Tree
-UC Irvine https://archive.ics.uci.edu/dataset/111/zoo 
+UC Irvine https://archive.ics.uci.edu/dataset/111/zoo | Ideas: https://treevis.net/
 
 Decision Tree Visualization for Zoo Dataset
 
