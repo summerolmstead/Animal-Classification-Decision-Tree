@@ -28,4 +28,4 @@ Features of the Code
 - Displays the decision tree with appropriate labels and colors to differentiate internal nodes and leaf nodes.
 
 
-Dependencies : pandas, numpy, matplotlib, sklearn, and networkx
+Dependencies : pandas, numpy, matplotlib, sklearn, and networkx.
